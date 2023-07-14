@@ -1,0 +1,10 @@
+## Informações importantes:
+#### Link do Guia MarkDown:
+ - https://www.markdownguide.org/getting-started/
+
+Link com dicas de utilização e edição de arquivos .md (markdown) como por exemplo o README.md file
+
+Como incluir titulos, listas não ordenadas, entre outras informações importantes
+
+
+### Proximo tema:
