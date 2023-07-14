@@ -6,3 +6,10 @@
 ### Plataformas / Ferramentas:
 - GIT
 - GitHub
+
+### Bibliotecas Python para pesquisar:
+- Pyautogui
+- numpy
+- matplotlip
+- panda
+- botcity
